@@ -26,7 +26,7 @@ This system proves three critical properties using zero-knowledge proofs:
 
 ## 📊 Experimental Results
 
-### System Performance (100 test samples, macOS M1)
+### System Performance (100 test samples)
 
 | Phase | Time | Constraints | Details |
 |-------|------|-------------|---------|
